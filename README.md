@@ -59,7 +59,7 @@ Pada bagian ini, saya menggunakan elemen `<select>` untuk pilihan program studi 
 
 Menggunakan elemen semantik seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan `<footer>` untuk menyusun struktur halaman web yang lebih rapi.
 
-![Elemen Semantik](Screenshots/4&5.png)
+![Elemen Semantik](Screenshots/4.png)
 
 ---
 
